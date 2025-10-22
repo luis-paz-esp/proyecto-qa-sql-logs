@@ -1,4 +1,4 @@
-<img width="940" height="571" alt="Captura de pantalla 2025-10-21 a la(s) 8 50 50 p m" src="https://github.com/user-attachments/assets/4f4e7976-728a-4df5-af34-688c6f5d4c55" /># Proyecto 3: Análisis de Logs y Pruebas de Bases de Datos (App Taxis)
+# Proyecto 3: Análisis de Logs y Pruebas de Bases de Datos (App Taxis)
 
 Este proyecto demuestra habilidades técnicas avanzadas en la investigación de errores (troubleshooting), yendo más allá de la interfaz para encontrar la causa raíz (root cause) mediante el análisis de logs de servidor y la ejecución de consultas SQL complejas.
 
